@@ -61975,7 +61975,7 @@ N(a){return B.FQ}}
 A.Bu.prototype={
 N(a){var s=null,r=t.p
 return A.jT(A.dh(A.a([B.v6,new A.bQ(B.zt,A.cu("assets/images/hero.png",s,s,s),s),B.ez,new A.bQ(B.zw,A.dh(A.a([this.vS(u.k,u.X),B.v7,this.vS(u.R,"\u0625\u0634\u0631\u0627\u0641 \u0645\u0628\u0627\u0634\u0631 \u0639\u0644\u0649 \u0623\u0639\u0645\u0627\u0644\u0643"),B.v7,this.vS(u.v,"\u0642\u064a\u0645\u0629 \u0645\u0642\u0627\u0628\u0644 \u0633\u0639\u0631")],r),B.K,B.O),s),B.Hj,B.E9],r),B.K,B.O),s,1/0)},
-vS(a,b){return A.dh(A.a([A.cu("images/checkmark_circle.png",null,73,73),B.v9,A.jV(b,B.In,B.bt),B.v9,A.jV(a,B.IJ,B.bt)],t.p),B.K,B.O)}}
+vS(a,b){return A.dh(A.a([A.cu("assets/images/checkmark_circle.png",null,73,73),B.v9,A.jV(b,B.In,B.bt),B.v9,A.jV(a,B.IJ,B.bt)],t.p),B.K,B.O)}}
 A.Bw.prototype={
 N(a){var s=this,r=null
 return A.f7(r,new A.bQ(B.zx,A.dh(A.a([s.qd("care","\u062e\u0635\u0648\u0645\u0627\u062a \u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0648\u0644\u0627\u0621"),B.hM,s.qd("persons","\u0627\u0634\u0631\u0627\u0641\n\u0641\u0631\u064a\u0642 \u0645\u0646 \u062e\u0628\u0631\u0627\u0621"),B.hM,s.qd("time","\u062f\u0642\u0629\n\u0641\u064a \u0627\u0644\u0645\u0648\u0627\u0639\u064a\u062f"),B.hM,s.qd("price","\u0623\u0633\u0639\u0627\u0631\n\u062a\u0646\u0627\u0641\u0633\u064a\u0629"),B.v8,A.jT(A.o1(B.LN,new A.Tf(),A.a7K(r,r,B.fn,r,r,r,r,r,r,r,r,r,r,r,new A.bX(A.mr(8),B.p),r,r,r,r)),56,239)],t.p),B.K,B.O),r),B.r,r,r,B.wi,r,r,r,r,r,r,1/0)},
